@@ -10,6 +10,7 @@ This project focuses on automating the management of stock data and product attr
 - Automatic integration with Latakko API
 - Category and attribute creation for Woocommerce
 - Simple config
+- Provides logging for viewing status of script
 
 
 ### Prerequisites
